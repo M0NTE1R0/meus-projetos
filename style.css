@@ -1,0 +1,42 @@
+body {
+    margin: 10;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#game{
+    background-color:lightcoral;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#digital{
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    background-color: darkorchid;
+    color: rgb(255, 255, 255);
+    stroke-width: 1px; 
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    width: 95%;
+    border-radius: 50px;
+
+}
